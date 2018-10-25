@@ -1,5 +1,5 @@
 public class EMIDeciderHandler {
-    public Decimal installment=0;
+    public Decimal installment=0.0;
     public Decimal balanceAmount=0.0;
     public Decimal revisedLoanAmount=0.0;
     public Decimal revisedInstallment=0.0;
